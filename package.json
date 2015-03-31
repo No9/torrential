@@ -1,0 +1,38 @@
+{
+  "name": "torrential",
+  "version": "1.0.1",
+  "description": "A workshopper to demonstrate a simple p2p network",
+  "main": "torrential.js",
+  "dependencies": {
+    "concat-stream": "^1.4.7",
+    "which": "^1.0.9",
+    "request": "^2.54.0",
+    "workshopper": "^2.3.1",
+    "parse-torrent": "^4.0.0",
+    "workshopper-exercise": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/No9/torrential.git"
+  },
+  "keywords": [
+    "p2p",
+    "workshopper",
+    "nodeschool",
+    "bittorrent"
+  ],
+  "author": "anton whalley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/No9/torrential/issues"
+  },
+  "homepage": "https://github.com/No9/torrential",
+  "bin": {
+    "torrential": "./torrential.js"
+  },
+  "preferGlobal": true
+}
