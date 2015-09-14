@@ -1,15 +1,15 @@
 {
   "name": "torrential",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A workshopper to demonstrate a simple p2p network",
   "main": "torrential.js",
   "dependencies": {
-    "concat-stream": "^1.4.7",
-    "which": "^1.0.9",
-    "request": "^2.54.0",
-    "workshopper": "^2.3.1",
-    "parse-torrent": "^4.0.0",
-    "workshopper-exercise": "^2.3.0"
+    "concat-stream": "^1.5.0",
+    "parse-torrent": "^4.1.0",
+    "request": "^2.61.0",
+    "which": "^1.1.2",
+    "workshopper": "^2.7.0",
+    "workshopper-exercise": "^2.4.0"
   },
   "devDependencies": {},
   "scripts": {
