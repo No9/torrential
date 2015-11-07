@@ -10,13 +10,13 @@ exercise.requireSubmission = false
 exercise.addVerifyProcessor(function (cb) {
 
 	if(!fs.existsSync('xyz-tracker.torrent')){
-		this.emit("fail", "xyz.torrent does not exist please try the first step again.")
+		this.emit("fail", "xyz-tracker.torrent does not exist please try the first step again.")
 		cb(null, false)
 		return
 	}
 
 	var instream = fs.createReadStream('xyz-tracker.torrent')
-	var that = this	
+	var that = this
 	instream.pipe(concat(function (body) {
 		try {
 			var parsed = parseTorrent(body)
