@@ -20,6 +20,20 @@ $ torrent xyz-tracker.torrent
 
 You should see output like 
 ```
+2 files in torrent
+a.txt
+b.txt
+Connected to 0/1 peers
+Downloaded 0 B (0 B/s)
+Uploaded 0 B (0 B/s)
+Torrent Size 10 B
+
+Complete: 0.000%
+[                    ]
+0%    25   50   75   100%
+
+Calculating
+
 ```
 
 When the download has finished in the command prompt you ran the download from verify with 
