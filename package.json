@@ -1,6 +1,6 @@
 {
   "name": "torrential",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A workshopper to demonstrate a simple p2p network",
   "main": "torrential.js",
   "dependencies": {
