@@ -1,6 +1,6 @@
 In this step we are going to start a bittorrent-tracker. 
 
-Open a new command prompt seperate from the one you are running torrential in.
+Open a new command prompt separate from the one you are running torrential in.
 
 Start the traker with 
 
