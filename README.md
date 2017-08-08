@@ -9,7 +9,7 @@ It uses the commandline tools from @feross @substack @maxogden to get you from z
 
 Enjoy!! 
 
-#usage
+# Usage
 
 ```bash
 $ npm i -g torrential
