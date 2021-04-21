@@ -12,6 +12,6 @@ Enjoy!!
 # Usage
 
 ```bash
-$ npm i -g torrential
-$ torrential
+npm i -g torrential
+torrential
 ```
